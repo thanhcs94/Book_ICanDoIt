@@ -1,0 +1,59 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/nen"
+    tools:context=".Menu" >
+
+    <TextView
+        android:id="@+id/tv"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="44dp"
+        android:text="I Can Do It"
+        android:textColor="#800000"
+        android:gravity="center"
+        android:textSize="50sp"
+        android:textStyle="italic|bold"
+        android:typeface="serif" />
+
+    <Button
+        android:id="@+id/btabout"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/btvietnamese"
+        android:layout_alignRight="@+id/btvietnamese"
+        android:layout_below="@+id/btvietnamese"
+        android:background="@drawable/button_selector"
+        android:text="@string/about"
+        android:textStyle="bold"
+        android:typeface="monospace" />
+
+    <Button
+        android:id="@+id/btenglish"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/btvietnamese"
+        android:layout_alignRight="@+id/btvietnamese"
+        android:layout_below="@+id/tv"
+        android:layout_marginTop="31dp"
+        android:background="@drawable/button_selector"
+        android:text="@string/english"
+        android:textStyle="bold"
+        android:typeface="monospace" />
+
+    <Button
+        android:id="@+id/btvietnamese"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/btenglish"
+        android:layout_centerHorizontal="true"
+        android:background="@drawable/button_selector"
+        android:text="@string/vietnamese"
+        android:textStyle="bold"
+        android:typeface="monospace" />
+
+</RelativeLayout>

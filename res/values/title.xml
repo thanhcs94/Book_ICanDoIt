@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="titleanh">
+        <item>Introduction</item>
+        <item>Health</item>
+        <item>Forgiveness</item>
+        <item>Prosperity</item>
+        <item>Creativity</item>
+        <item>Love and Romance</item>
+        <item>Job success</item>
+        <item>Stress – Free living</item>
+        <item>Self-Esteem</item>
+        <item>In Conclusion</item>
+     
+   
+    </string-array>
+   
+    <string-array name="destribeanh">
+        <item>Today is new day,today is a day for you begin creating  a  joyous,  fulfilling  life. </item>
+        <item>If you want to create better health in your body, there are definitely some things you  must not do:</item>
+        <item>You can never be free of bitterness as long asyou continue to think unforgiving thoughts. </item>
+        <item>You can never create prosperity by talking or  thinking  about  your  lack  of  money</item>
+        <item>You can never  express  yourself  creatively by  talking  or  thinking  about </item>
+        <item>Personal relationships always seem to be the  first  priority  for  so  many  of  us.</item>
+        <item>Finding success in a career is a major problem  for  many  people.</item>
+        <item>This is the moment in which  you’re either enjoying  or  not  enjoying  your  life.</item>
+        <item>"You’ll never have good self-esteem if you have negative thoughts about yourself."</item>
+        <item>"Once you’ve done your affirmations, then it’s time to release them and let them go."</item>
+       
+       
+    
+    </string-array>
+
+    <!-- ================================================================================================ -->
+    
+    
+    <string-array name="titleviet">
+        <item>Lời giới thiệu</item>
+        <item>Sức khỏe</item>
+        <item>Sự tha thứ</item>
+        <item>Sự thịnh vượng</item>
+        <item>Sự sáng tạo</item>
+        <item>Tình cảm và sự lãng mạn</item>
+        <item>Sự thành công</item>
+        <item>Cuộc sống không lo âu</item>
+        <item>Sự tôn trọng bản thân</item>
+        <item>Lời kết</item>
+       
+   
+    </string-array>
+   
+    <string-array name="destribeviet">
+        <item>Hôm nay là một ngày mới,hôm nay chính là thời điểm để bạn khởi đầu</item>
+        <item>Nếu  muốn  có  sức  khỏe  tốt,  bạn  tuyệt  đối  không đuợc  làm  một  số  điều. </item>
+        <item>Bạn khó thoát khỏi cảm giác đau khổ  nếu vẫn còn giữ  trong  lòng  nh ững  suy  nghĩ  hiềm  khích.</item>
+        <item>Bạn khó cơ thể  có được một cuộc sống dư dả  nếu cứ  mãi  suy  nghĩ  hoặc  phàn  nàn  về  sự  túng  thiếu  của mình.</item>
+        <item>Bạn  có  thể  không  bao  giờ  đưa  ra  được  ý  tưởng mới  mẻ  nào  nếu  cứ  cho  rằng  mình  là  một  người  vụng về. </item>
+        <item>Tình  cảm  luôn  là  mối  quan  tâm  hàng  đầu  của hầu  hết  chúng  ta.</item>
+        <item>Đối  với  nhiều  người,  việc  tìm  kiếm  sự  thành  đạt luôn  là  vấn  đề  quan  trọng  nhất  trong  cuộc  sống  của họ.</item>
+        <item>Có thể  bạn đang sống trong hiện tại với tâm trạng vui  vẻ,  thích  thú,  hoặc  chán  trƣờng  lo  âu.</item>
+        <item>Bạn sẽ chẳng bao giờ biết tôn trọng bản thân nếu trong bạn vẫn còn mang những suy nghĩ tiêu cực về mình.</item>
+        <item>Một khi đã thực hiện suy nghĩ và nói những điều tích cực, đến lúc này hãy để những lời khẳng định của bạn thoát ra tự nhiên và đừng bận tâm vì chúng nữa. </item>
+       
+    
+    </string-array>
+    
+</resources>

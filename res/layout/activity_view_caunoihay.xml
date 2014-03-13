@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/LinearLayout1"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/view"
+    android:orientation="vertical" >
+
+    <ScrollView
+        android:id="@+id/scrollview1"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+           android:layout_marginTop="53dp"
+        android:layout_weight="30" >
+
+        <TextView
+            android:id="@+id/view1"
+            android:layout_width="fill_parent"
+            android:layout_height="match_parent"
+            android:layout_marginTop="10dp"
+            android:layout_weight="1"
+            android:lines="20"
+            android:paddingLeft="50dp"
+            android:paddingRight="50dp"
+            android:textColor="@android:color/black"
+            android:textIsSelectable="true"
+            android:textSize="15sp"
+             android:textStyle="italic"
+            android:typeface="serif" />
+
+    </ScrollView>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="15dp"
+        android:layout_marginTop="10dp"
+        android:gravity="right"
+        android:orientation="horizontal" >
+
+        <ImageButton
+            android:id="@+id/ibtlike"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@android:color/transparent"
+            android:src="@drawable/likeicon" />
+
+        <ImageButton
+            android:id="@+id/ibtfa"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@android:color/transparent"
+            android:src="@drawable/facebook" />
+
+        <ImageButton
+            android:id="@+id/ibtshare"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@android:color/transparent"
+            android:src="@drawable/share" />
+
+        <ImageButton
+            android:id="@+id/ibtback"
+            android:layout_width="wrap_content"
+               android:background="@android:color/transparent"
+            android:layout_height="wrap_content"
+            android:src="@drawable/back" />
+
+        <ImageButton
+            android:id="@+id/ibtnext"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+               android:background="@android:color/transparent"
+            android:src="@drawable/next" />
+
+    </LinearLayout>
+
+</LinearLayout>

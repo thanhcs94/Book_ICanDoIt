@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    
+    <item
+        android:id="@+id/english"
+        android:icon="@android:drawable/edit_text"
+        android:title="@string/english"/>
+    <item
+        android:id="@+id/vietnamese"
+        android:title="@string/vietnamese"/>
+    <item
+        android:id="@+id/bookmark"
+        android:title="@string/bookmark"/>
+
+</menu>

@@ -1,0 +1,28 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+ 	android:orientation="vertical"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity" >
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Interesting English Sentences " 
+        android:gravity="center"
+        android:background="#E8E8E8"
+        android:textColor="#8B7D7B"
+        android:textSize="20sp"/>
+    
+    <ListView 
+        android:id="@+id/lv1"
+         android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        
+        
+        ></ListView>
+    
+    
+    
+
+</LinearLayout>
